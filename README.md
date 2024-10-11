@@ -1,8 +1,7 @@
-<div align="center">
 Nice to meet you! <br>
-</div>
-
+**OnceGzsJAY!** <br>
 #### HEY I'm here!
+<br>
 **A simple profile, nothing fancy.**
 <br>
 **I use CPP,Python,ReactJS,HTML,JS,CSS**
